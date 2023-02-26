@@ -1,0 +1,4 @@
+.env
+./web-api-examples/package-lock.json
+./web-api-examples/catalog-info.yaml
+./web-api-examples/get_user_profile
